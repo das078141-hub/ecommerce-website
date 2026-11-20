@@ -2,6 +2,8 @@
 
 Forma is a responsive home and lifestyle storefront built with React, Node.js, Express, and MongoDB. It includes secure account registration and sign-in, a persistent shopping bag, server-priced checkout, and Razorpay payment verification.
 
+**GitHub:** [das078141-hub/ecommerce-website](https://github.com/das078141-hub/ecommerce-website)
+
 ## Features
 
 - User authentication with JWT sessions and bcrypt password hashing.
